@@ -1,5 +1,3 @@
-require 'pry'
-
 def game_hash
 return full_hash = {
   :home => {
